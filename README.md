@@ -1,51 +1,51 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Ebook RPG com Apresentacao interativa
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto e um RPG Livro Jogo apresentado em formato de slides 
+Um RPG livro jogo que permite ao usuario escolher opcoes e pular paginas para outra parte da historia, tornando o livro um jogo interativo.
+Cada slide contem:
+- um texto explicando a cena
+- uma lista de opcoes que direciona para outro slide/pagina do livro jogo
+- uma ilustracao trilha sonora para ambientar a cena descrita no texto
+
+O livro jogo tem 4 finais possiveis. 
+Os finais nao podem ser caracterizados como bons ou ruins, sao desfechos diferentes para historia
+O Leitor pode ficar em alguns loops repetindo opcoes de escolhas
+Para simplificar a montagem do livro jogo e possivel chegar aos finais em ate 7 escolhas ou 8 slides
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- ChatGPT: Criacao de roteiro
+
+- Gamma.ai: Geracao de slides 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+- ChatGPT: solicitei para se posicionar como um mestre de RPG, narrador e autor de um livro jogo e criar uma historia.
+
+- Gamma.ai: Utilizando o texto do livro jogo gerado pelo ChatGPT solicitei a criacao dos slides. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Os slides criados pelo Gamma.ai estao em, ainda nao se parecem com um livro-jogo:
+https://gamma.app/docs/Choose-Your-Own-Adventure-The-Dark-Forest-4gfc33kzi7izm8q
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Realizar os diversos cadastros e tedioso, mesmo utilizando o oauth do google. 
+Aprender a utilizar cada ferramenta de IA tomou tempo. As ferramentas tem interface com o usuario amigaveis, mas e necesario usar algum tempo para aprender a utiliza-las.
 
-### Exemplos e Insigths
+## Melhorias futuras
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- ChatGPT: solicitei para se posicionar como um mestre de RPG, narrador e autor de um livro jogo e criar uma historia.
+  Utilizando o contexto do ChatGPT solicitei para indicar 3 pontos da historia que poderiam indicar variacoes na historia.
+  Solicitei para criar as 3 variacoes.
+  Solicitei para organizar as 4 historias em um livro jogo
 
-## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+- Gamma.ai: Utilizando o texto do livro jogo gerado pelo ChatGPT solicitei a criacao dos slides. Realizei interacoes para adicionar as imagens e musicas criadas pelas outras ferramentas.
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+- Leonardo.ai: Usando os textos separados pelo Gamma.ai solicitei a criacao de imagens que ilustrem as cenas descritas
+
+- Mureka.ai: Usandos os textos separados pelo Gamma.ai solicitei a criacao de musicas que refletissem o ambiente descrito. Alguns resultados foram diferentes do que eu esperava.
+
+- ElevenLabs.io: Solicitei para converter os textos para audio utilizando um narrador com tom de voz de fantasia.
